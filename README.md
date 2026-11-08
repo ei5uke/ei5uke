@@ -1,4 +1,4 @@
-Welcome to my repo; hope you can find some code useful. Oh, and feel free to read my [writing](ei5uke.github.io/) to pass the time.
+Welcome to my repo; hope you can find some code useful. Oh, and feel free to read my [writing](https://ei5uke.github.io/) to pass the time.
 
 <!--
 **ei5uke/ei5uke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
